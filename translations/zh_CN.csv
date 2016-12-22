@@ -1,0 +1,112 @@
+### common ###
+Chinese,中文
+Japanese,日本語
+Submitted,提交
+Cancel,取消
+Upload,上传
+Download,下载
+Close,关闭
+Today,今日
+Yesterday,昨日
+Day,日
+Week,周
+Month,月
+Hint,提示
+Error,错误
+Submit,提交
+Operation,操作
+Modify,修改
+Delete,删除
+Add,增加
+Confirm,确认
+Client,客户端
+Team,团队
+System,系统
+Contact,联系
+Default,默认
+Standard,标准
+Custom,自定义
+Person,人
+Welcome,欢迎您
+Hello,您好
+Login,登录
+Register, 注册
+Logout,注销
+Mail,邮箱
+Password,密码
+Home, 主页
+### /common ###
+
+
+### login ###
+welecome use login system,欢迎使用登录系统
+welecome use login admin system,欢迎使用后台登录系统
+admin system,管理后台
+user login,用户登录
+user register, 用户注册
+Remember password,记住密码
+Trial apply,申请试用
+Write carefully to get the trial quickly,请仔细填写以下信息，以便于您的申请能快速通过审核
+Your company(not less than 5 letters),* 您的公司（不得低于5个字）
+Your email,* 您的Email
+Your phone,* 您的电话
+Your UDID(required for ios suggest iphone4s or plus),* 设备UDID（IOS必填，建议使用设备：iphone4s及以上设备）
+Your usage(not less than 20 letters),* 使用场景，使用时间（不得低于20个字）
+I haved read and agree,我已阅读并同意
+Use Agreement,使用协议
+Mail sent successfully,发送成功
+Please insert your username,请输入用户名!
+Please insert your password,请输入密码!
+Please insert your email,请输入邮箱!
+Please insert right format email,请输入正确格式的电子邮件
+Please insert your company name,请输入公司名称!
+Company name should not be less than 5 letters,公司不得低于5个字
+Please insert your name,请输入姓名!
+Please insert your phone,请输入电话!
+Please insert your usage,请输入使用需求描述!
+Usage name should not be less than 20 letters,不得低于20个字
+Please agree user agreement,请阅读并同意使用协议
+Please insert your UDID,请输入UDID
+No username or password,没有用户名或密码
+User name,用户名
+User Exists,用户已存在
+Invalid user,没有该用户
+Password error,密码错误
+Username or Password error, 用户名或密码错误
+Mail not verify,邮箱未验证
+Account is frozen,帐号被冻结
+The two passwords are not identical, 两次密码不相同
+This user has no permission to use this system,该用户不能使用系统，请联系管理员
+Request error,请求错误
+Message Exists, 消息已存在
+New message success, 消息新建成功
+### /login ###
+
+
+### user center ###
+Usercenter,用户中心
+Modify username and password,修改用户名与密码
+New username,新用户名
+New password,新密码
+Confirm password,密码确认
+No new username or password!,请填入需要更新的用户名或密码
+Confirm password is different from new password!,确认密码与新密码不同
+No reset passwd session,错误的重置密码请求
+Same name editor exists!,用户已经存在!
+Update success,更新成功
+View subjects,查看主题
+Other editor subjects,其他编辑主题
+
+Modify password,修改密码
+Old password,旧密码
+No old password!,请填入旧的密码
+No new password!,请填入新的密码
+Old password invalid,输入错误的旧密码
+Please protect your password,请牢记您的密码，防止泄漏给他人
+### /user center
+
+
+
+
+
+

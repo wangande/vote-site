@@ -1,0 +1,5 @@
+.git/*
+ip.zip
+.ropeproject/*
+ip.git/*
+*.pyc

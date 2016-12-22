@@ -1,0 +1,5 @@
+FROM   vote-site-base
+ADD     . /vote-site
+WORKDIR	/vote-site
+
+CMD     python /vote-site/manage.py --port=80
